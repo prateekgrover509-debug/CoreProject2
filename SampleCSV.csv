@@ -1,0 +1,6 @@
+﻿"topic,content"
+"pricing tolerance,Invoice amount can vary up to 3 percent from PO amount without rejection"
+"missing po,Invoices without PO should be routed for manual review"
+"duplicate invoice,Duplicate invoices must be flagged and payment stopped"
+"currency mismatch,Invoice currency must match PO currency exactly"
+"payment timeline,Standard payment timeline is 30 days after approval"
